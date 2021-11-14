@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/lineage_lava.mk
+   $(LOCAL_DIR)/crystal_lava.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_lava-user \
-    lineage_lava-userdebug \
-    lineage_lava-eng
+    crystal_lava-user \
+    crystal_lava-userdebug \
+    crystal_lava-eng
